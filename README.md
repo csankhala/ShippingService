@@ -1,3 +1,4 @@
+This service repo is part of below project: https://github.com/csankhala/ecommerce-micronaut-kafka
 ## Micronaut 3.9.1 Documentation
 
 - [User Guide](https://docs.micronaut.io/3.9.1/guide/index.html)
@@ -53,5 +54,3 @@
 ## Feature micronaut-aop documentation
 
 - [Micronaut Aspect-Oriented Programming (AOP) documentation](https://docs.micronaut.io/latest/guide/index.html#aop)
-
-
